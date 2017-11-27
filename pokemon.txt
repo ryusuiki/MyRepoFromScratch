@@ -16,5 +16,4 @@ esVerdadero=true;
 
 TEngo que atraparlos. Son un miloooon
 nueva funcionalidad=true;
-nueva func2=false;
 Tu lo que estas viendo, es un cerdo volador

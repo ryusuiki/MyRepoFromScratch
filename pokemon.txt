@@ -15,6 +15,6 @@ Sooon un millooon, nuesstro destino así es!
 esVerdadero=true;
 
 TEngo que atraparlos. Son un miloooon
-nueva funcionalidad=false;
+nueva funcionalidad=true;
 nueva func2=false;
 Tu lo que estas viendo, es un cerdo volador

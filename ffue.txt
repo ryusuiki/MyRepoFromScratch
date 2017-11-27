@@ -1,3 +1,4 @@
+Titulo: Archivo de prueba que lo llamo ffue, pero no se por que temrinó con ese nombre.
 3 way merge 
 this is my first file using echo command
 

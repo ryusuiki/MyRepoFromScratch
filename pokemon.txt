@@ -1,3 +1,6 @@
+Titulo: Pokemon opening song
+Cantante: Guille
+
 Esto es una prueba porque quiero probar git
 
 Tengo que ser, siempre el mejor. Mejor que nadie más

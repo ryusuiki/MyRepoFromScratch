@@ -13,3 +13,5 @@ Pokeemooon tengo que atraparlos!
 
 Sooon un millooon, nuesstro destino así es!
 esVerdadero=true;
+
+TEngo que atraparlos. Son un miloooon
